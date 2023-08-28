@@ -6,21 +6,24 @@ Since I'm also considering backend develop using spring boot, I started to study
 
 I play FPS games or hang with my friends in my slack time. <br>
 Nice to meet you :)
-<hr>
 
 <h2>⚡Skills </h2>
-Platforms & Languages
+<h3>Platforms & Languages </h3>
 <br>
-ReactNative 
-JavaScript
-Python
-Java
-C
+
+<div style="display:flex; flex-direction:row;">
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<h3>Tools </h3>
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+</div>
 <br>
-Tools 
-<br>
-Git
-Firebase
 
 ![Chennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chennielee&show_icons=true&theme=radical)
 
