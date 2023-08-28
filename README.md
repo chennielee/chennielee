@@ -16,5 +16,11 @@ JavaScript
 Python
 Java
 C
+<br>
+Tools 
+<br>
+Git
+Firebase
 
+![Chennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chennielee&show_icons=true&theme=radical)
 
