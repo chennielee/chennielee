@@ -24,6 +24,12 @@ Nice to meet you :)
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </div>
 <br>
+<div style="display:flex; flex-direction:row;">
+<h2>⚡Studying </h2>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+</div>
+<br>
 
 ![Chennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chennielee&show_icons=true&theme=radical)
 
