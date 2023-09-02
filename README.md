@@ -47,6 +47,5 @@ Nice to meet you :)
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </div>
 <br>
-
 ![Chennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chennielee&show_icons=true&theme=radical)
 
