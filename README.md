@@ -10,14 +10,6 @@ I usually play FPS games or hang with my friends in my slack time. <br>
 Nice to meet you :)
 </div>
 
-<div align="center">
-  <h2> About Me </h2>
-  <a href="https://instagram.com/chennielee_?igshid=OGQ5ZDc2ODk2ZA==">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/chennielee_?igshid=OGQ5ZDc2ODk2ZA=="
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-</div>
 <br> <br>
 
 <h2>⚡Skills </h2>
@@ -46,6 +38,33 @@ Nice to meet you :)
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </div>
-<br>
 
+<br>
+#### Interest
+- React 
+- Serverless develop w.AWS
+- Kendra 
+
+#### Project
+| Duration                  |        | Role              | More                                      |
+|---------------------------|--------|-------------------|---------------------------------------------|
+| 2023.3- 2023.8  | 모두의 일정을 하나로! 'WeMatch' | frontend developer |[Github Repository](https://github.com/APPS-sookmyung/2023-POCHAK-server) |
+| 2023.3 ~ | 레시피 정리하고 공유하는 웹 'Cookcipe' | frontend developer | [Github Repository](https://github.com/PLACE-4th-UMC/PLACE-server) |
+| 2023.6 ~ | 학회 출석체크앱, 'APPSCHECK' | frontend developer | [Github Repository](https://github.com/PLACE-4th-UMC/PLACE-server) |
+| 2023.10.04- 2023.10.08  | 신한그룹 빅데이터 활용 해커톤 우수상 수상작: 모임투자 서비스 '모아모아 ' | frontend developer | [Github Repository](https://github.com/UniBond-jijijin/UniBond-server) |
+
+#### Experience
+> 2023
+[UMC](https://github.com/UMC-SMWU) 5th Web Part Member (2023.9 ~ ) <br>
+[Solux] 28th Member (2023.03 ~ )
+[APPS] 10th Member (2023.3 ~ ) <br>
+
+#### Price
+신한그룹 빅데이터 해커톤 대회 신한투자증권 부문 우수상 수상 (2023.10.12)
+
+
+#### MORE
+📬 E-MAIL [@chennielee12@gmail.com](mailto:chennielee12@gmail.com) <br>
+🔭 [linkedin](https://www.linkedin.com/in/chennielee/) <br>
+💻 Blog [Velog](https:/velog.com/)
 
