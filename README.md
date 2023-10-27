@@ -48,23 +48,24 @@ Nice to meet you :)
 #### Project
 | Duration                  |        | Role              | More                                      |
 |---------------------------|--------|-------------------|---------------------------------------------|
-| 2023.3- 2023.8  | 모두의 일정을 하나로! 'WeMatch' | frontend developer |[Github Repository](https://github.com/APPS-sookmyung/2023-POCHAK-server) |
-| 2023.3 ~ | 레시피 정리하고 공유하는 웹 'Cookcipe' | frontend developer | [Github Repository](https://github.com/PLACE-4th-UMC/PLACE-server) |
-| 2023.6 ~ | 학회 출석체크앱, 'APPSCHECK' | frontend developer | [Github Repository](https://github.com/PLACE-4th-UMC/PLACE-server) |
-| 2023.10.04- 2023.10.08  | 신한그룹 빅데이터 활용 해커톤 우수상 수상작: 모임투자 서비스 '모아모아 ' | frontend developer | [Github Repository](https://github.com/UniBond-jijijin/UniBond-server) |
+| 2023.3- 2023.8  | 모두의 일정을 하나로! 'WeMatch' | frontend developer |[Github Repository](https://github.com/sm-solux/28th_1_WeMatch_WeMatch_Front) |
+| 2023.3 ~ | 레시피 정리하고 공유하는 웹 'Cookcipe' | frontend developer | [Github Repository](https://github.com/chennielee/2023-Cookcipe) |
+| 2023.6 ~ | 학회 출석체크앱, 'APPSCHECK' | frontend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-AppsCheck) |
+| 2023.10.04- 2023.10.08  | 신한그룹 빅데이터 활용 해커톤 우수상 수상작: 모임투자 서비스 '모아모아 ' | frontend developer | [Github Repository](https://github.com/market-capitalization/moamoa-front) |
 
 #### Experience
+
 > 2023
 [UMC](https://github.com/UMC-SMWU) 5th Web Part Member (2023.9 ~ ) <br>
 [Solux] 28th Member (2023.03 ~ )
 [APPS] 10th Member (2023.3 ~ ) <br>
 
-#### Price
-신한그룹 빅데이터 해커톤 대회 신한투자증권 부문 우수상 수상 (2023.10.12)
+#### Awards 
+[Hackathon](https://github.com/market-capitalization)신한그룹 빅데이터 해커톤 대회 신한투자증권 부문 우수상 수상 (2023.10.12)
 
 
 #### MORE
 📬 E-MAIL [@chennielee12@gmail.com](mailto:chennielee12@gmail.com) <br>
 🔭 [linkedin](https://www.linkedin.com/in/chennielee/) <br>
-💻 Blog [Velog](https:/velog.com/)
+💻 Blog [Velog](https://velog.io/@chennielee)
 
