@@ -57,8 +57,8 @@ Nice to meet you :)
 
 > 2023
 [UMC](https://github.com/UMC-SMWU) 5th Web Part Member (2023.9 ~ ) <br>
-Solux 28th Member (2023.03 ~ ) <br>
-APPS 10th Member (2023.3 ~ )
+[Solux](https://github.com/sm-solux) 28th Member (2023.03 ~ ) <br>
+[APPS](https://github.com/APPS-sookmyung) 10th Member (2023.3 ~ )
 
 #### Awards 
 신한그룹 빅데이터 [Hackathon](https://github.com/market-capitalization) 대회 신한투자증권 부문 우수상 수상 (2023.10.12)
