@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20chennie's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=200)
 <div align="center">
- <h2>Hi, this is chennie :p </h2>
+ <h2>Hi, this is chennie :) </h2>
   
 I am a <b>frontend developer</b> who use react and javascript. <br>
 Since I'm also considering backend develop using spring boot, I started to study spring boot recently.
