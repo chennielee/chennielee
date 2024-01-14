@@ -52,7 +52,7 @@ Nice to meet you :)
 | 2023.3 ~ | 오늘 뭐먹지? 'EzEat' | frontend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-EzEat) |
 | 2023.6 ~ | 학회 출석체크앱, 'APPSCHECK' | frontend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-AppsCheck) |
 | 2023.10.04- 2023.10.08  | 신한그룹 빅데이터 활용 해커톤 우수상 수상작: 모임투자 서비스 '모아모아 ' | frontend developer | [Github Repository](https://github.com/market-capitalization/moamoa-front) |
-| 2023.12.26- 2023.12.27  | 연합 해커톤 COKOTHON 대회 대상 수상작: 친구들이 만들어주는 나를 위한 플레이리스트 'Wriggle' | frontend developer | [Github Repository](https://github.com/market-capitalization/moamoa-front) |
+| 2023.12.26- 2023.12.27  | 연합 해커톤 COKOTHON 대회 대상 수상작: 친구들이 만들어주는 나를 위한 플레이리스트 'Wriggle' | frontend developer | [Github Repository](https://github.com/Cokothon-T4F1) |
 
 #### Experience
 
@@ -62,8 +62,8 @@ Nice to meet you :)
 [APPS](https://github.com/APPS-sookmyung) 10th Member (2023.3 ~ )
 
 #### Awards 
-신한그룹 빅데이터 [Hackathon](https://github.com/market-capitalization) 대회 신한투자증권 부문 우수상 수상 (2023.10.12)
-연합 해커톤 COKOTHON [] 대회 대상 수상 (2023.12.26)
+🏆 신한그룹 빅데이터 [Hackathon](https://github.com/market-capitalization) 대회 신한투자증권 부문 우수상 수상 (2023.10.12) <br>
+🏆 연합 해커톤 COKOTHON [Hackathon](https://github.com/Cokothon-T4F1) 대회 대상 수상 (2023.12.26)
 
 
 
