@@ -45,6 +45,7 @@ Nice to meet you :)
 - Spring boot 
 - Serverless develop w.AWS
 - Kendra 
+- AWS cloudSearch
 
 #### Project
 | Duration                  |        | Role              | More                                      |
@@ -58,9 +59,10 @@ Nice to meet you :)
 
 #### Experience
 
-> 2023
+> 2024
 [Dacos] 2th Deep Learning/Machine Learning Part Member (2024.3 ~ ) <br>
 [APPS](https://github.com/APPS-sookmyung) 10th Member (2023.3 ~ ) <br>
+> 2023
 [UMC](https://github.com/UMC-SMWU) 5th Web Part Member (2023.9 ~ 2024. 02 ) <br>
 [Solux](https://github.com/sm-solux) 28th Member (2023.03 ~ 2024. 02) <br>
 
