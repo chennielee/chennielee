@@ -52,7 +52,7 @@ Nice to meet you :)
 |---------------------------|--------|-------------------|---------------------------------------------|
 | 2023.3- 2023.8  | 모두의 일정을 하나로! 'WeMatch' | frontend developer |[Github Repository](https://github.com/sm-solux/28th_1_WeMatch_WeMatch_Front) |
 | 2023.3 ~ | 오늘 뭐먹지? 'EzEat' | frontend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-EzEat) |
-| 2023.6 ~ | 학회 출석체크앱, 'APPSCHECK' | backend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-AppsCheck) |
+| 2023.6 ~ | 학회 출석체크앱, 'APPSCHECK' | backend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-AppsCheck-server) |
 | 2023.10.04- 2023.10.08  | 신한그룹 빅데이터 활용 해커톤 우수상 수상작: 모임투자 서비스 '모아모아 ' | frontend developer | [Github Repository](https://github.com/market-capitalization/moamoa-front) |
 | 2023.12.26- 2023.12.27  | 연합 해커톤 COKOTHON 대회 대상 수상작: 친구들이 만들어주는 나를 위한 플레이리스트 'Wiggle' | frontend developer | [Github Repository](https://github.com/Cokothon-T4F1/t4f2-frontend) |
 | 2023.09.01- 2024.2.07  | 비교과 행사 정리 커뮤니티 'uhang' | backend developer | [Github Repository](https://github.com/sm-solux/28th_2_Webiang_uhang_Back) |
