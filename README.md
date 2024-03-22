@@ -4,7 +4,7 @@
  <h2>Hi, this is chennie :) </h2>
   
 I am heading to be a <b>backend developer</b> who use spring. <br>
-Since I've studied, participated in frontend jobs/projects, I can also act as a frontend developer. ( I uese React, Javascript .)
+Since I've studied, participated in frontend jobs/projects, I can also act as a frontend developer. ( I use React, Javascript .)
 I usually play FPS games or hang with my friends in my slack time. <br>
 Nice to meet you :)
 </div>
@@ -22,6 +22,8 @@ Nice to meet you :)
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <h3>Tools </h3>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>
