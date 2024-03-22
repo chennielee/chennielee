@@ -3,9 +3,8 @@
 <div align="center">
  <h2>Hi, this is chennie :) </h2>
   
-I am a <b>frontend developer</b> who use react and javascript. <br>
-Since I'm also considering backend develop using spring boot, I started to study spring boot recently.
-
+I am heading to be a <b>backend developer</b> who use spring. <br>
+Since I've studied, participated in frontend jobs/projects, I can also act as a frontend developer. ( I uese React, Javascript .)
 I usually play FPS games or hang with my friends in my slack time. <br>
 Nice to meet you :)
 </div>
@@ -41,7 +40,7 @@ Nice to meet you :)
 <br>
 
 #### Interest
-- React 
+- Spring boot 
 - Serverless develop w.AWS
 - Kendra 
 
@@ -58,9 +57,10 @@ Nice to meet you :)
 #### Experience
 
 > 2023
-[UMC](https://github.com/UMC-SMWU) 5th Web Part Member (2023.9 ~ ) <br>
-[Solux](https://github.com/sm-solux) 28th Member (2023.03 ~ ) <br>
-[APPS](https://github.com/APPS-sookmyung) 10th Member (2023.3 ~ )
+[Dacos] 2th Deep Learning/Machine Learning Part Member (2024.3 ~ ) <br>
+[APPS](https://github.com/APPS-sookmyung) 10th Member (2023.3 ~ ) <br>
+[UMC](https://github.com/UMC-SMWU) 5th Web Part Member (2023.9 ~ 2024. 02 ) <br>
+[Solux](https://github.com/sm-solux) 28th Member (2023.03 ~ 2024. 02) <br>
 
 #### Awards 
 🏆 신한그룹 빅데이터 [Hackathon](https://github.com/market-capitalization) 대회 신한투자증권 부문 우수상 수상 (2023.10.12) <br>
