@@ -1,11 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20chennie's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=200)
 <div align="center">
- <h2>Hi, this is chennie :) </h2>
-  
-I am heading to be a <b>backend developer</b> who use spring. <br>
-Since I've studied, participated in frontend jobs/projects, I can also act as a frontend developer. ( I use React, Javascript .)
-I usually play FPS games or hang with my friends in my slack time. <br>
+ <h2>Hi, this is chloe Lee. I'm an enthusiastic undergrad student currently in South Korea</h2>
 Nice to meet you :)
 </div>
 
@@ -33,19 +29,21 @@ Nice to meet you :)
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
     
 </div>
-<br>
+<!-- <br>
 <div style="display:flex; flex-direction:row;">
 <h2>⚡Now Studying </h2>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </div>
-<br>
+<br> -->
 
 #### Interest
-- Spring boot 
-- Serverless develop w.AWS
-- Kendra 
 - AWS cloudSearch
+- Cloud Computuing
+- Architecture Design
+- NLP
+- Quantum computing
+
 
 #### Project
 | Duration                  |        | Role              | More                                      |
@@ -56,15 +54,18 @@ Nice to meet you :)
 | 2023.10.04- 2023.10.08  | 신한그룹 빅데이터 활용 해커톤 우수상 수상작: 모임투자 서비스 '모아모아 ' | frontend developer | [Github Repository](https://github.com/market-capitalization/moamoa-front) |
 | 2023.12.26- 2023.12.27  | 연합 해커톤 COKOTHON 대회 대상 수상작: 친구들이 만들어주는 나를 위한 플레이리스트 'Wiggle' | frontend developer | [Github Repository](https://github.com/Cokothon-T4F1/t4f2-frontend) |
 | 2023.09.01- 2024.2.07  | 비교과 행사 정리 커뮤니티 'uhang' | backend developer | [Github Repository](https://github.com/sm-solux/28th_2_Webiang_uhang_Back) |
+| 2024.05.01- 2024.5.25  | AWS x SMWU MLOps project | Architecture Design | [Github Repository]() |
 
 #### Experience
 
 > 2024
-[Dacos] 2th Deep Learning/Machine Learning Part Member (2024.3 ~ ) <br>
+[Dacos] 2th Deep Learning/Machine Learning Part Member (2024.3 ~ 2024.6 ) <br>
 [APPS](https://github.com/APPS-sookmyung) 10th Member (2023.3 ~ ) <br>
+[Q-click Inc] Internship at Q-click Inc (2024.3 ~ 2024.6 ) <br>
 > 2023
 [UMC](https://github.com/UMC-SMWU) 5th Web Part Member (2023.9 ~ 2024. 02 ) <br>
 [Solux](https://github.com/sm-solux) 28th Member (2023.03 ~ 2024. 02) <br>
+[APPS](https://github.com/APPS-sookmyung) 10th Member (2023.3 ~ ) <br>
 
 #### Awards 
 🏆 신한그룹 빅데이터 [Hackathon](https://github.com/market-capitalization) 대회 신한투자증권 부문 우수상 수상 (2023.10.12) <br>
@@ -74,6 +75,6 @@ Nice to meet you :)
 
 #### MORE
 📬 E-MAIL [@chennielee12@gmail.com](mailto:chennielee12@gmail.com) <br>
-🔭 [linkedin](https://www.linkedin.com/in/chennielee/) <br>
+🔭 [linkedin](www.linkedin.com/in/chloe122) <br>
 💻 Blog [Velog](https://velog.io/@chennielee)
 
