@@ -53,8 +53,8 @@ Nice to meet you :)
 | 2023.6 ~ | 학회 출석체크앱, 'APPSCHECK' | backend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-AppsCheck-server) |
 | 2023.10.04- 2023.10.08  | 신한그룹 빅데이터 활용 해커톤 우수상 수상작: 모임투자 서비스 '모아모아 ' | frontend developer | [Github Repository](https://github.com/market-capitalization/moamoa-front) |
 | 2023.12.26- 2023.12.27  | 연합 해커톤 COKOTHON 대회 대상 수상작: 친구들이 만들어주는 나를 위한 플레이리스트 'Wiggle' | frontend developer | [Github Repository](https://github.com/Cokothon-T4F1/t4f2-frontend) |
-| 2023.09.01- 2024.2.07  | 비교과 행사 정리 커뮤니티 'uhang' | backend developer | [Github Repository](https://github.com/sm-solux/28th_2_Webiang_uhang_Back) |
-| 2024.05.01- 2024.5.25  | AWS x SMWU MLOps project | Architecture Design | [Github Repository]() |
+| 2023.09.01- 2024.02.07  | 비교과 행사 정리 커뮤니티 'uhang' | backend developer | [Github Repository](https://github.com/sm-solux/28th_2_Webiang_uhang_Back) |
+| 2024.05.01- 2024.05.25  | AWS x SMWU MLOps project | Architecture Design | [Github Repository]() |
 
 #### Experience
 
@@ -62,6 +62,7 @@ Nice to meet you :)
 [Dacos] 2th Deep Learning/Machine Learning Part Member (2024.3 ~ 2024.6 ) <br>
 [APPS](https://github.com/APPS-sookmyung) 10th Member (2023.3 ~ ) <br>
 [Q-click Inc] Internship at Q-click Inc (2024.3 ~ 2024.6 ) <br>
+<br>
 > 2023
 [UMC](https://github.com/UMC-SMWU) 5th Web Part Member (2023.9 ~ 2024. 02 ) <br>
 [Solux](https://github.com/sm-solux) 28th Member (2023.03 ~ 2024. 02) <br>
@@ -76,5 +77,4 @@ Nice to meet you :)
 #### MORE
 📬 E-MAIL [@chennielee12@gmail.com](mailto:chennielee12@gmail.com) <br>
 🔭 [linkedin](www.linkedin.com/in/chloe122) <br>
-💻 Blog [Velog](https://velog.io/@chennielee)
 
