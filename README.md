@@ -38,16 +38,17 @@ Nice to meet you :)
 <br> -->
 
 #### Interest
+- NLP
+- RL
+- Quantum computing
 - AWS cloudSearch
 - Cloud Computuing
 - Architecture Design
-- NLP
-- Quantum computing
-
 
 #### Project
 | Duration                  |        | Role              | More                                      |
 |---------------------------|--------|-------------------|---------------------------------------------|
+| 2024.10- 2024.10  | 'Promi' | AI engineer |[Github Repository](https://github.com/2024-AWS-GenAI-Hackathon/.github/blob/main/profile/README.md) |
 | 2023.03- 2023.08  | 모두의 일정을 하나로! 'WeMatch' | frontend developer |[Github Repository](https://github.com/sm-solux/28th_1_WeMatch_WeMatch_Front) |
 | 2023.03 ~ 2023.12 | 오늘 뭐먹지? 'EzEat' | frontend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-EzEat) |
 | 2023.06 ~ 2024.02 | 학회 출석체크앱, 'APPSCHECK' | backend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-AppsCheck-server) |
@@ -69,6 +70,8 @@ Nice to meet you :)
 [APPS](https://github.com/APPS-sookmyung) 10th Member (2023.03 ~ 2024.06 ) <br>
 
 #### Awards 
+🏆 AWS Hackathon [Hackathon](https://github.com/2024-AWS-GenAI-Hackathon/.github/blob/main/profile/README.md) 대회 우수상 수상 (2024.10) <br>
+🏆 Dacos Datathon [Datathon] 대회 #Rank2(우수상) 수상 (2024.9) <br>
 🏆 신한그룹 빅데이터 [Hackathon](https://github.com/market-capitalization) 대회 신한투자증권 부문 우수상 수상 (2023.10.12) <br>
 🏆 연합 해커톤 COKOTHON [Hackathon](https://github.com/Cokothon-T4F1) 대회 대상 수상 (2023.12.26)
 
