@@ -66,13 +66,12 @@ Nice to meet you :)
 
 #### Experience
 
-> 2024
+> 2024<br>
 [Student Lab Intern] @DPS LAB in SMWU (2024.09 ~ ) <br>
 [Dacos] 2th Deep Learning/Machine Learning Part Member (2024.03 ~  ) <br>
 [APPS](https://github.com/APPS-sookmyung) 10th Member (2023.03 ~ 2024.06) <br>
-[Q-click Inc] Internship at Q-click Inc (2024.03 ~ 2024.06 ) <br>
-<br>
-> 2023
+[Q-click Inc] Internship at Q-click Inc (2024.03 ~ 2024.06 ) <br><br>
+> 2023<br>
 [UMC](https://github.com/UMC-SMWU) 5th Web Part Member (2023.09 ~ 2024.02 ) <br>
 [Solux](https://github.com/sm-solux) 28th Member (2023.03 ~ 2024.02) <br>
 [APPS](https://github.com/APPS-sookmyung) 10th Member (2023.03 ~ 2024.06 ) <br>
