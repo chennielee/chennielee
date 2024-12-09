@@ -45,17 +45,25 @@ Nice to meet you :)
 - Cloud Computuing
 - Architecture Design
 
-#### Project
+#### Main Project
 | Duration                  |        | Role              | More                                      |
 |---------------------------|--------|-------------------|---------------------------------------------|
-| 2024.10- 2024.10  | 'Promi' | AI engineer |[Github Repository](https://github.com/2024-AWS-GenAI-Hackathon/.github/blob/main/profile/README.md) |
-| 2023.03- 2023.08  | 모두의 일정을 하나로! 'WeMatch' | frontend developer |[Github Repository](https://github.com/sm-solux/28th_1_WeMatch_WeMatch_Front) |
-| 2023.03 ~ 2023.12 | 오늘 뭐먹지? 'EzEat' | frontend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-EzEat) |
+| 2024.09-  | AI 노벨수상 도우미 'Nobelize' | MLOps Engineer |[Github Repository](https://github.com/y00nsun/Nobelize_cloud) |
+| 2024.09- 2024.12 | 카카오워크에 AI를 더하다 '더뉴카카오' | AI Engineer |[Github Repository]() |
+| 2024.10- 2024.10  | AWS x Couchbase Hackathon 우수상 수상작: 'Promi' | AI engineer |[Github Repository](https://github.com/2024-AWS-GenAI-Hackathon/.github/blob/main/profile/README.md) |
 | 2023.06 ~ 2024.02 | 학회 출석체크앱, 'APPSCHECK' | backend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-AppsCheck-server) |
 | 2023.10.04- 2023.10.08  | 신한그룹 빅데이터 활용 해커톤 우수상 수상작: 모임투자 서비스 '모아모아 ' | frontend developer | [Github Repository](https://github.com/market-capitalization/moamoa-front) |
 | 2023.12.26- 2023.12.27  | 연합 해커톤 COKOTHON 대회 대상 수상작: 친구들이 만들어주는 나를 위한 플레이리스트 'Wiggle' | frontend developer | [Github Repository](https://github.com/Cokothon-T4F1/t4f2-frontend) |
 | 2023.09.01- 2024.02.07  | 비교과 행사 정리 커뮤니티 'uhang' | backend developer | [Github Repository](https://github.com/sm-solux/28th_2_Webiang_uhang_Back) |
 | 2024.05.01- 2024.05.25  | AWS x SMWU MLOps project | Architecture Design | [Github Repository]() |
+
+#### Side Project
+| Duration                  |        | Role              | More                                      |
+|---------------------------|--------|-------------------|---------------------------------------------|
+| 2023.03- 2023.08  | 모두의 일정을 하나로! 'WeMatch' | frontend developer |[Github Repository](https://github.com/sm-solux/28th_1_WeMatch_WeMatch_Front) |
+| 2023.03 ~ 2023.12 | 오늘 뭐먹지? 'EzEat' | frontend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-EzEat) |
+| 2023.06 ~ 2024.02 | 학회 출석체크앱, 'APPSCHECK' | backend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-AppsCheck-server) |
+| 2023.09.01- 2024.02.07  | 비교과 행사 정리 커뮤니티 'uhang' | backend developer | [Github Repository](https://github.com/sm-solux/28th_2_Webiang_uhang_Back) |
 
 #### Experience
 
