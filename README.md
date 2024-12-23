@@ -65,5 +65,5 @@ Nice to meet you :)
 
 #### MORE
 📬 E-MAIL [@chennielee12@gmail.com](mailto:chennielee12@gmail.com) <br>
-🔭 [linkedin](www.linkedin.com/in/chloe122) <br>
+🔭 [linkedin](https://www.linkedin.com/in/chloe122) <br>
 
