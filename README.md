@@ -49,7 +49,7 @@ Nice to meet you :)
 | Duration                  |        | Role              | More                                      |
 |---------------------------|--------|-------------------|---------------------------------------------|
 | 2024.09-  | AI 노벨수상 도우미 'Nobelize' | MLOps Engineer |[Github Repository](https://github.com/y00nsun/Nobelize_cloud) |
-| 2024.09- 2024.12 | 카카오워크에 AI를 더하다 '더뉴카카오' | AI Engineer |[Github Repository](AI capstone project) |
+| 2024.09- 2024.12 | 카카오워크에 AI를 더하다 '더뉴카카오' | AI Engineer |[Github Repository](https://github.com/chennielee/ALLNEW-kakao) |
 | 2024.10- 2024.10  | AWS x Couchbase Hackathon 우수상 수상작: 'Promi' | AI engineer |[Github Repository](https://github.com/2024-AWS-GenAI-Hackathon/.github/blob/main/profile/README.md) |
 | 2023.06 ~ 2024.02 | 학회 출석체크앱, 'APPSCHECK' | backend developer | [Github Repository](https://github.com/APPS-sookmyung/2023-AppsCheck-server) |
 | 2023.10.04- 2023.10.08  | 신한그룹 빅데이터 활용 해커톤 우수상 수상작: 모임투자 서비스 '모아모아 ' | frontend developer | [Github Repository](https://github.com/market-capitalization/moamoa-front) |
