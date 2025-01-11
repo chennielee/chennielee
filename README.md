@@ -30,6 +30,7 @@ Nice to meet you :)
 | 2024.09-  | AI 노벨수상 도우미 'Nobelize' | MLOps Engineer |[Github Repository](https://github.com/y00nsun/Nobelize_cloud) |
 | 2024.09- 2024.12 | 카카오워크에 AI를 더하다 '더뉴카카오' | AI Engineer |[Github Repository](https://github.com/chennielee/ALLNEW-kakao) |
 | 2024.10- 2024.10  | AWS x Couchbase Hackathon 우수상 수상작: 'Promi' | AI engineer |[Github Repository](https://github.com/2024-AWS-GenAI-Hackathon/.github/blob/main/profile/README.md) |
+| 2024.9- 2025.1  | English Dialect Translater applying T5 model | AI engineer |[Github Repository](https://github.com/chennielee/DialectTranslater) |
 
 #### Side Project
 | Duration                  |        | Role              | More                                      |
