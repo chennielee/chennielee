@@ -18,7 +18,7 @@
 - LLM systems and agent architectures
 - ML systems for scalable and efficient deployment
 
-#### ⚡ Exploring (Optional)
+#### ⚡ Exploring
 - Quantum computing for learning & optimization
 
 ---
