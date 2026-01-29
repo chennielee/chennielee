@@ -26,7 +26,7 @@
 #### ⚡ My Research Papers
 
 - **Energy-Efficient Ground Station Optimization for LEO Satellites via Reinforcement Learning**  
-  *KICS Conference, 2025* · [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784)  
+  *KICS Conference, 2025* · [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784)  [Source Code] (https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784)
   _RL-based optimization for energy-efficient satellite–ground station scheduling._
 
 - **Development of a Multimodal RAG System Utilizing Both User-Entered Text and Input Images**  
