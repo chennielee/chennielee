@@ -10,8 +10,9 @@
 
 #### ⚡ Currently Working On
 - Interpretable Reinforcement Learning (hierarchical & sequential decision-making)
+- Graph RAG using Knowledge Graph (Document Tagging, KG Indexing)
 - LLM-based agent systems and RAG pipelines
-- ML system deployment (Docker, Kubernetes, cloud infrastructure)
+- ML system deployment
 
 #### ⚡ Main Research Interests
 - Interpretable & reliable reinforcement learning
