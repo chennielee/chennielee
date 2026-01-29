@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chloe's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=150)
 
 <div align="center">
-  <h2>Hi, I'm Chloe Lee 👋</h2>
+  <h2>Hi, I'm Chloe Lee </h2>
   <p>CS undergraduate focused on interpretable decision-making and deployment-ready ML systems.</p>
   <p>Based in South Korea · currently in San Jose, CA</p>
 </div>
