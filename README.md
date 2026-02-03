@@ -1,12 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chloe's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=150)
 
 <div align="center">
-  <h2>Hi, I'm Chloe Lee </h2>
+  <h2>Hi, I'm Chloe Lee</h2>
   <p>CS undergraduate focused on interpretable decision-making and deployment-ready ML systems.</p>
   <p>Based in South Korea · currently in San Jose, CA</p>
 </div>
 
-<br><br>
+<br>
+
+## ⭐ Featured Work (selected)
+
+### 1) Energy-Efficient Ground Station Selection (RL) — Satellite Downlink Scheduling  
+**Goal:** minimize information staleness (AoI) while respecting queue constraints and energy costs under time-varying Line-of-Sight.  
+- **What I built:** a simulation environment + DQN-based policy for ground-station selection (10 GS, minute-level dynamics).  
+- **Why it matters:** I observed counter-intuitive routing behavior (e.g., not always choosing the “obvious” station by distance), which motivated my focus on *interpretable decision-making* for RL systems.  
+- Repo: **[Satellite Downlink RL](YOUR_SATELLITE_REPO_LINK_HERE)** · Paper: [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784) · Summary: **[PROJECT_SUMMARY.md](YOUR_SATELLITE_REPO_SUMMARY_LINK_HERE)**
+
+### 2) Multimodal RAG (Text + Image) with CLIP Embeddings  
+**Goal:** improve retrieval and QA by aligning semantic similarity across text and images.  
+- **What I did:** CLIP-based embedding alignment + multimodal retrieval pipeline + real-world use cases (architecture sketches).  
+- Result: **KSC 2024 Undergraduate Best Writing Paper Award (3rd place)**  
+- Paper: [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12042258) · (optional) Repo: **[Code / Notes](YOUR_MULTIMODAL_RAG_REPO_LINK_HERE)**
+
+### 3) Production Agent Systems — Observability → Efficiency Trade-off  
+**Goal:** make reasoning traces inspectable in production while minimizing latency overhead.  
+- Built modular reasoning components and instrumented decision steps for high observability in a production agent/RAG system.  
+- This led to my current question: *how do we keep transparency while staying operationally efficient?*
+
+---
 
 #### ⚡ Currently Working On
 - Interpretable Reinforcement Learning (hierarchical & sequential decision-making)
@@ -24,11 +45,10 @@
 
 ---
 
-#### ⚡ My Research Papers
+## 📄 Research Papers
 
 - **Energy-Efficient Ground Station Optimization for LEO Satellites via Reinforcement Learning**  
-  *KICS Conference, 2025* · [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784) · [Source Code](https://github.com/chennielee/2024KICS-Satelite-Downlink-Source-Code)
-
+  *KICS Conference, 2025* · [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784) · [Source Code](https://github.com/chennielee/2024KICS-Satelite-Downlink-Source-Code)  
   _RL-based optimization for energy-efficient satellite–ground station scheduling._
 
 - **Development of a Multimodal RAG System Utilizing Both User-Entered Text and Input Images**  
@@ -41,7 +61,7 @@
 
 ---
 
-#### ⚡ Awards
+## 🏆 Awards
 🏆 **3rd Place, KICS 2025 GenAI Idea Competition (Conference)** — Presented “Hybrid Embedding and LLM RAG-Based Virtual System for Literary Evaluation” (2025) <br>
 🏆 **3rd Place, KSC 2024 Undergraduate Best Writing Paper Award** — “Development of a Multimodal RAG System Utilizing Both User-Entered Text and Input Images” (2024) <br>
 🏆 **2nd Place (Excellence Award), KCCI AI Startup Competition** — Built an AI-driven KakaoWork prototype as the sole engineer (Dec 2024) — [Project Repo](https://github.com/chennielee/ALLNEW-kakao) <br>
@@ -52,7 +72,7 @@
 
 ---
 
-#### ⚡ Main Projects
+## 🧩 Main Projects
 | Duration | Project | Role | More |
 |---|---|---|---|
 | 2024.09 - 2025.02 | Nobelize: AI Assistant for Nobel Prize Research | Research Engineer (Hybrid Embeddings) | [GitHub](https://github.com/y00nsun/Nobelize_cloud) |
@@ -60,7 +80,9 @@
 | 2024.10 - 2024.10 | Promi: Award-Winning Project (Excellence Award, AWS × Couchbase GenAI Hackathon) | MLOps Engineer | [GitHub](https://github.com/2024-AWS-GenAI-Hackathon/.github/blob/main/profile/README.md) |
 | 2024.09 - 2025.01 | English Dialect Translator (T5-based) | ML Engineer (NLP) | [GitHub](https://github.com/chennielee/DialectTranslater) |
 
-#### ⚡ Side Projects
+---
+
+## 🧪 Side Projects
 | Duration | Project | Role | More |
 |---|---|---|---|
 | 2024.05.01 - 2024.05.25 | AWS × SMWU MLOps Project | System Architecture Designer | [GitHub]() |
@@ -73,7 +95,7 @@
 
 ---
 
-#### ⚡ Experience & Communities
+## 👩‍💻 Experience & Communities
 > **2025** <br>
 - Rock15 Inc — Internship (Mar 2025 - Feb 2026, San Jose, CA)
 
@@ -86,3 +108,9 @@
 - UMC @ SMWU — 5th Web Part Member (Sep 2023 - Feb 2024) <br>
 - Solux — 28th Member (Mar 2023 - Feb 2024) <br>
 - APPS @ SMWU — 10th Member (Mar 2023 - Jun 2024) <br>
+
+---
+
+## 📫 Contact
+- Email: chaestaryinhw12@gmail.com 
+- LinkedIn: /chloe122
