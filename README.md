@@ -14,7 +14,7 @@
 **Goal:** minimize information staleness (AoI) while respecting queue constraints and energy costs under time-varying Line-of-Sight.  
 - **What I built:** a simulation environment + DQN-based policy for ground-station selection (10 GS, minute-level dynamics).  
 - **Why it matters:** I observed counter-intuitive routing behavior (e.g., not always choosing the “obvious” station by distance), which motivated my focus on *interpretable decision-making* for RL systems.  
-- Repo: **[Satellite Downlink RL](YOUR_SATELLITE_REPO_LINK_HERE)** · Paper: [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784) · Summary: **[PROJECT_SUMMARY.md](YOUR_SATELLITE_REPO_SUMMARY_LINK_HERE)**
+- Repo: **[Satellite Downlink RL](https://github.com/chennielee/2024KICS-Satelite-Downlink-Source-Code)** · Paper: [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784) · Summary: **[PROJECT_SUMMARY.md](YOUR_SATELLITE_REPO_SUMMARY_LINK_HERE)**
 
 ### 2) Multimodal RAG (Text + Image) with CLIP Embeddings  
 **Goal:** improve retrieval and QA by aligning semantic similarity across text and images.  
