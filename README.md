@@ -1,116 +1,58 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chloe's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=150)
-
 <div align="center">
-  <h2>Hi, I'm Chloe Lee</h2>
-  <p>CS undergraduate focused on interpretable decision-making and deployment-ready ML systems.</p>
-  <p>Based in South Korea · currently in San Jose, CA</p>
+  <h2>Chloe Lee</h2>
+  <p>Interpretable RL & Deployment-Ready ML Systems</p>
+  <p>San Jose, CA → Seoul, KR</p>
 </div>
 
-<br>
+---
 
-## ⭐ Featured Work (selected)
+## 🎯 What I Work On
 
-### 1) Energy-Efficient Ground Station Selection (RL) — Satellite Downlink Scheduling  
-**Goal:** minimize information staleness (AoI) while respecting queue constraints and energy costs under time-varying Line-of-Sight.  
-- **What I built:** a simulation environment + DQN-based policy for ground-station selection (10 GS, minute-level dynamics).  
-- **Why it matters:** I observed counter-intuitive routing behavior (e.g., not always choosing the “obvious” station by distance), which motivated my focus on *interpretable decision-making* for RL systems.  
-- Repo: **[Satellite Downlink RL](https://github.com/chennielee/2024KICS-Satelite-Downlink-Source-Code)** · Paper: [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784) · Summary: **[PROJECT_SUMMARY.md](YOUR_SATELLITE_REPO_SUMMARY_LINK_HERE)**
+**LEO Satellite Routing with Deep RL / h-DQN**  
+[![GitHub Repo](https://img.shields.io/badge/LEO%20RL-55dim%20h--DQN-blue)](https://github.com/chennielee/2024KICS-Satelite-Downlink-Source-Code)  
+- Energy-efficient ground station selection (10+ GS, AoI minimization, queue/energy constraints).  
+- Built a DQN-based agent and reward design that converges stably within 10k episodes on NASA-style data.  
+- Now extending to a hierarchical DQN (h-DQN) to make decisions more traceable and fault-isolation faster.  
+- Paper: *KICS 2025* (oral) · [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784)
 
-### 2) Multimodal RAG (Text + Image) with CLIP Embeddings  
-**Goal:** improve retrieval and QA by aligning semantic similarity across text and images.  
-- **What I did:** CLIP-based embedding alignment + multimodal retrieval pipeline + real-world use cases (architecture sketches).  
-- Result: **KSC 2024 Undergraduate Best Writing Paper Award (3rd place)**  
-- Paper: [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12042258) · (optional) Repo: **[Code / Notes](YOUR_MULTIMODAL_RAG_REPO_LINK_HERE)**
+**Multimodal & Hybrid Embeddings for RAG**  
+- Multimodal RAG with CLIP: aligned text–image embeddings, validated on 15+ real-world use cases.  
+- Hybrid embedding + LLM RAG: improved semantic comprehension by ~15%, deployed via Docker+K8s (3× CPU efficiency).  
+- Papers: *KSC 2024* (Best Paper, 3rd) · *KICS 2025 GenAI* (3rd)
 
-### 3) Production Agent Systems — Observability → Efficiency Trade-off  
-**Goal:** make reasoning traces inspectable in production while minimizing latency overhead.  
-- Built modular reasoning components and instrumented decision steps for high observability in a production agent/RAG system.  
-- This led to my current question: *how do we keep transparency while staying operationally efficient?*
+**Production Agent & ML Systems**  
+- Rock15: MCP-based multi-agent system, GraphRAG pipeline (500+ docs), DSPy-style agents with 96% observability.  
+- Q-Click: Hybrid XGBoost/NN recommendation pipeline, CI/CD for fast deployment.
 
 ---
 
-#### ⚡ Currently Working On
-- Interpretable Reinforcement Learning (hierarchical & sequential decision-making)
-- Graph RAG using Knowledge Graph (Document Tagging, KG Indexing)
-- LLM-based agent systems and RAG pipelines
-- ML system deployment
+## 🔬 Interests
 
-#### ⚡ Main Research Interests
-- Interpretable & reliable reinforcement learning
-- LLM systems and agent architectures
-- ML systems for scalable and efficient deployment
-
-#### ⚡ Exploring
-- Quantum computing for learning & optimization
+- Interpretable & reliable reinforcement learning (DQN → h-DQN, multi-agent, sequential decisions)  
+- ML systems: observability vs efficiency, MLOps, RAG, agent architectures  
+- AI + Systems: taking theory into production under real constraints
 
 ---
 
-## 📄 Research Papers
+## 🏆 Selected Hackathons & Awards
 
-- **Energy-Efficient Ground Station Optimization for LEO Satellites via Reinforcement Learning**  
-  *KICS Conference, 2025* · [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784) · [Source Code](https://github.com/chennielee/2024KICS-Satelite-Downlink-Source-Code)  
-  _RL-based optimization for energy-efficient satellite–ground station scheduling._
+AWS GenAI (2nd), KSC Best Paper (3rd), KICS GenAI (3rd), KCCI AI Startup (2nd),  
+Shinhan Big Data Hackathon (2nd), COKOTHON Inter-University Hackathon (Grand Prize, Wiggle)  
 
-- **Development of a Multimodal RAG System Utilizing Both User-Entered Text and Input Images**  
-  *KSC Conference, 2024* · [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12042258)  
-  _Multimodal retrieval combining user text and images for improved QA (CLIP)._
-
-- **Hybrid Embedding and LLM RAG-Based Virtual System for Literary Evaluation**  
-  *KICS Conference, 2025* · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132312)  
-  _Hybrid embeddings + RAG pipeline for real-world literary evaluation._
-
----
-
-## 🏆 Awards
-🏆 **3rd Place, KICS 2025 GenAI Idea Competition (Conference)** — Presented “Hybrid Embedding and LLM RAG-Based Virtual System for Literary Evaluation” (2025) <br>
-🏆 **3rd Place, KSC 2024 Undergraduate Best Writing Paper Award** — “Development of a Multimodal RAG System Utilizing Both User-Entered Text and Input Images” (2024) <br>
-🏆 **2nd Place (Excellence Award), KCCI AI Startup Competition** — Built an AI-driven KakaoWork prototype as the sole engineer (Dec 2024) — [Project Repo](https://github.com/chennielee/ALLNEW-kakao) <br>
-🏆 **2nd Place, AWS × Couchbase GenAI Playground Hackathon** — Implemented an MLOps pipeline and integrated AWS Bedrock + Stable Diffusion (Oct 2024) — [Hackathon Repo](https://github.com/2024-AWS-GenAI-Hackathon/.github/blob/main/profile/README.md) <br>
-🏆 **2nd Place, Dacos Datathon** (Sep 2024) <br>
-🏆 **2nd Place (Excellence Award), Shinhan Financial Group Big Data Hackathon (Investment Division)** — Built a recommendation model and trend analysis for service strategy (Oct 2023) — [Org/Repos](https://github.com/market-capitalization) <br>
-🏆 **Grand Prize (1st Place), COKOTHON Inter-University Hackathon** — *Wiggle*: a friend-curated personalized playlist (Dec 26, 2023) — [Hackathon Repo](https://github.com/Cokothon-T4F1) <br>
-
----
-
-## 🧩 Main Projects
-| Duration | Project | Role | More |
-|---|---|---|---|
-| 2024.09 - 2025.02 | Nobelize: AI Assistant for Nobel Prize Research | Research Engineer (Hybrid Embeddings) | [GitHub](https://github.com/y00nsun/Nobelize_cloud) |
-| 2024.09 - 2024.12 | All-New Kakao: AI Features for KakaoWork | LLM Application Engineer | [GitHub](https://github.com/chennielee/ALLNEW-kakao) |
-| 2024.10 - 2024.10 | Promi: Award-Winning Project (Excellence Award, AWS × Couchbase GenAI Hackathon) | MLOps Engineer | [GitHub](https://github.com/2024-AWS-GenAI-Hackathon/.github/blob/main/profile/README.md) |
-| 2024.09 - 2025.01 | English Dialect Translator (T5-based) | ML Engineer (NLP) | [GitHub](https://github.com/chennielee/DialectTranslater) |
-
----
-
-## 🧪 Side Projects
-| Duration | Project | Role | More |
-|---|---|---|---|
-| 2024.05.01 - 2024.05.25 | AWS × SMWU MLOps Project | System Architecture Designer | [GitHub]() |
-| 2023.10.04 - 2023.10.08 | 모아모아: Group Investment Service (Excellence Award, 'Shinhan Bank' Big Data Hackathon) | Frontend Developer | [GitHub](https://github.com/market-capitalization/moamoa-front) |
-| 2023.12.26 - 2023.12.27 | Wiggle: Friend-Curated Playlist App (Grand Prize, KMU × SMWU Hackathon) | Frontend Developer | [GitHub](https://github.com/Cokothon-T4F1/t4f2-frontend) |
-| 2023.09.01 - 2024.02.07 | Uhang: Campus Events Community Platform | Backend Developer | [GitHub](https://github.com/sm-solux/28th_2_Webiang_uhang_Back) |
-| 2023.03 - 2023.08 | WeMatch: Shared Calendar & Scheduling App | Frontend Developer | [GitHub](https://github.com/sm-solux/28th_1_WeMatch_WeMatch_Front) |
-| 2023.03 - 2023.12 | EzEat: “What should we eat today?” App | Frontend Developer | [GitHub](https://github.com/APPS-sookmyung/2023-EzEat) |
-| 2023.06 - 2024.02 | APPSCHECK: Attendance Check App | Backend Developer | [GitHub](https://github.com/APPS-sookmyung/2023-AppsCheck-server) |
+More details & certificate photos: [LinkedIn](https://linkedin.com/in/chloe122)
 
 ---
 
 ## 👩‍💻 Experience & Communities
-> **2025** <br>
-- Rock15 Inc — Internship (Mar 2025 - Feb 2026, San Jose, CA)
 
-> **2024** <br>
-- DPS Lab @ SMWU — Student Lab Intern (Sep 2024 - Present) <br>
-- Dacos — Deep Learning / Machine Learning Part Member (Mar 2024 - Mar 2025) <br>
-- Q-click Inc — Internship (Mar 2024 - Jun 2024, Seoul, South Korea)
-
-> **2023** <br>
-- UMC @ SMWU — 5th Web Part Member (Sep 2023 - Feb 2024) <br>
-- Solux — 28th Member (Mar 2023 - Feb 2024) <br>
-- APPS @ SMWU — 10th Member (Mar 2023 - Jun 2024) <br>
+- Rock15 Inc. — AI Research Engineering Intern (San Jose, CA)  
+- Distributed Platforms & Systems Lab — Undergraduate Researcher (Satellite RL)  
+- Data Intelligence Lab — Undergraduate Researcher (Multimodal RAG)  
+- “Dacos” ML Club — Member & PyTorch training mentor  
 
 ---
 
 ## 📫 Contact
-- Email: chaestaryinhw12@gmail.com 
-- LinkedIn: /chloe122
+
+- Email: [chaestaryinhw12@gmail.com](mailto:chaestaryinhw12@gmail.com)  
+- LinkedIn: [linkedin.com/in/chloe122](https://linkedin.com/in/chloe122)
