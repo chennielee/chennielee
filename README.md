@@ -63,7 +63,7 @@ More details & certificate photos: [LinkedIn](https://linkedin.com/in/chloe122)
 | 2024 | AWS × SMWU MLOps Project | System Architecture Designer | [GitHub](GITHUB_LINK_HERE) |
 | 2023 | 'Moa Moa': Group Investment Service (Excellence Award, Shinhan Big Data Hackathon) | Frontend Developer | [GitHub](https://github.com/market-capitalization/moamoa-front) |
 | 2023 | Wiggle: Friend-Curated Playlist App (Grand Prize, KMU × SMWU Hackathon) | Frontend Developer | [GitHub](https://github.com/Cokothon-T4F1/t4f2-frontend) |
-| 2023-24 | WeMatch / EzEat / APPSCHECK / Uhang | Frontend & Backend | [WeMatch](https://github.com/sm-solux/28th_1_WeMatch_WeMatch_Front) · [EzEat](https://github.com/APPS-sookmyung/2023-EzEat) · [APPSCHECK](https://github.com/APPS-sookmyung/2023-AppsCheck-server) · [Uhang](https://github.com/sm-solux/28th_2_Webiang_uhang_Back) |
+| 2023-2024 | WeMatch / EzEat / APPSCHECK / Uhang | Frontend & Backend | [WeMatch](https://github.com/sm-solux/28th_1_WeMatch_WeMatch_Front) · [EzEat](https://github.com/APPS-sookmyung/2023-EzEat) · [APPSCHECK](https://github.com/APPS-sookmyung/2023-AppsCheck-server) · [Uhang](https://github.com/sm-solux/28th_2_Webiang_uhang_Back) |
 
 ## 📫 Contact
 
