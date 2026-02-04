@@ -21,8 +21,8 @@
 - Papers: *KSC 2024* (Best Paper, 3rd) · *KICS 2025 GenAI* (3rd)
 
 **Production Agent & ML Systems**  
-- Rock15: MCP-based multi-agent system, GraphRAG pipeline (500+ docs), DSPy-style agents with 96% observability.  
-- Q-Click: Hybrid XGBoost/NN recommendation pipeline, CI/CD for fast deployment.
+- Rock15 Inc: MCP-based multi-agent system, GraphRAG pipeline (500+ docs), DSPy-style agents with 96% observability.  
+- Q-Click Inc: Hybrid XGBoost/NN recommendation pipeline, CI/CD for fast deployment.
 
 ---
 
