@@ -10,27 +10,29 @@
 
 **LEO Satellite Routing with Deep RL / h-DQN**  
 [![GitHub Repo](https://img.shields.io/badge/LEO%20RL-55dim%20h--DQN-blue)](https://github.com/chennielee/2024KICS-Satelite-Downlink-Source-Code)  
-- Energy-efficient ground station selection (10+ GS, AoI minimization, queue/energy constraints).  
-- Built a DQN-based agent and reward design that converges stably within 10k episodes on NASA-style data.  
-- Now extending to a hierarchical DQN (h-DQN) to make decisions more traceable and fault-isolation faster.  
+- **Problem:** Energy-aware ground station selection (10 stations) for LEO downlink with **AoI (Age of Information)** minimization under **queue capacity** + **distance-based communication energy** constraints.  
+- **Method:** Built a **DQN baseline** that trains stably (≈10k episodes) in a **TLE-driven OCO-2 orbit/visibility simulation** (step-level logging: reward/AoI/energy/queue).  
+- **Evaluation:** Compared against **visibility-aware Random** and **distance-greedy** baselines; reporting **return + AoI/energy/queue dispersion** (mean±std over N eval episodes).  
+- **Next:** Extending to **hierarchical DQN (h-DQN)** to decouple *high-level objective selection* vs *low-level station choice* for more traceable decisions and faster fault isolation. 
 - Paper: *KICS 2025* (oral) · [DBpia](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12132784)
 
 **Multimodal & Hybrid Embeddings for RAG**  
-- Multimodal RAG with CLIP: aligned text–image embeddings, validated on 15+ real-world use cases.  
-- Hybrid embedding + LLM RAG: improved semantic comprehension by ~15%, deployed via Docker+K8s (3× CPU efficiency).  
-- Papers: *KSC 2024* (Best Paper, 3rd) · *KICS 2025 GenAI* (3rd)
+- __Text-Image Alignment__: Developed a Multimodal RAG pipeline using CLIP-based joint embeddings to bridge semantic gaps between disparate data types.
+- __Hybrid Retrieval Strategy__: Combined dense (vector) and sparse embeddings to improve semantic comprehension by ~15%; optimized for production via Docker & K8s.
+- __Research Impact__: Evaluated performance across domain-specific datasets, recognized at KSC 2024 (Best Paper) and KICS 2025.
 
 **Production Agent & ML Systems**  
-- Rock15 Inc: MCP-based multi-agent system, GraphRAG pipeline (500+ docs), DSPy-style agents with 96% observability.  
-- Q-Click Inc: Hybrid XGBoost/NN recommendation pipeline, CI/CD for fast deployment.
+- __Agentic Workflow__: Built MCP-based tool orchestration and ReAct(DSPy) agents with 96%(REGAS) step-level observability (@ Rock15 Inc).
+- __Advanced RAG__: Developed GraphRAG pipelines involving KGE model training and structured document indexing (@ Rock15 Inc).
+- __MLOps & Rec System__: Deployed hybrid XGBoost/NN recommendation models with automated CI/CD pipelines (@ Q-Click Inc).
 
 ---
 
 ## 🔬 Interests
 
-- Interpretable & reliable reinforcement learning (DQN → h-DQN, multi-agent, sequential decisions)  
-- ML systems: observability vs efficiency, MLOps, RAG, agent architectures  
-- AI + Systems: taking theory into production under real constraints
+- Interpretable & reliable reinforcement learning (DQN, multi-agent, sequential decisions)  
+- ML systems: observability vs efficiency, MLOps, Graph RAG, agent architectures  
+- AI + Systems: building practical systems that bridge theory and production under real constraints
 
 ---
 
@@ -48,7 +50,7 @@ More details & certificate photos: [LinkedIn](https://linkedin.com/in/chloe122)
 - Rock15 Inc. — AI Research Engineering Intern (San Jose, CA)  
 - Distributed Platforms & Systems Lab — Undergraduate Researcher (Satellite RL)  
 - Data Intelligence Lab — Undergraduate Researcher (Multimodal RAG)  
-- “Dacos” ML Club — Member & PyTorch training mentor
+- Dacos ML Club — Member & PyTorch training mentor
 - UMC @ SMWU — 5th Member (Seoul-wide developer community)  
 - Solux @ SMWU — 28th Member (Application development club)  
 - APPS @ SMWU — 10th Member (Application development club)   
