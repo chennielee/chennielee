@@ -49,9 +49,9 @@ More details & certificate photos: [LinkedIn](https://linkedin.com/in/chloe122)
 - Distributed Platforms & Systems Lab — Undergraduate Researcher (Satellite RL)  
 - Data Intelligence Lab — Undergraduate Researcher (Multimodal RAG)  
 - “Dacos” ML Club — Member & PyTorch training mentor
-- UMC @ SMWU — 5th Web Part Member (Seoul-wide developer community)  
-- Solux @ SMWU — 28th Member (Web/app development club)  
-- APPS @ SMWU — 10th Member (Mobile/app development club)   
+- UMC @ SMWU — 5th Member (Seoul-wide developer community)  
+- Solux @ SMWU — 28th Member (Application development club)  
+- APPS @ SMWU — 10th Member (Application development club)   
 
 ---
 
