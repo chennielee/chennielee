@@ -47,10 +47,11 @@ More details & certificate photos: [LinkedIn](https://linkedin.com/in/chloe122)
 
 ## 👩‍💻 Experience & Communities
 
-- Rock15 Inc. — AI Research Engineering Intern (San Jose, CA)  
+- Rock15 Inc. — AI Research Engineering Intern (San Jose, CA) 
 - Distributed Platforms & Systems Lab — Undergraduate Researcher (Satellite RL)  
 - Data Intelligence Lab — Undergraduate Researcher (Multimodal RAG)  
 - Dacos ML Club — Member & PyTorch training mentor
+- Q-click Inc. — MLOps Engineering Intern (Seoul, KR)
 - UMC @ SMWU — 5th Member (Seoul-wide developer community)  
 - Solux @ SMWU — 28th Member (Application development club)  
 - APPS @ SMWU — 10th Member (Application development club)   
