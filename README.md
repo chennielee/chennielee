@@ -9,7 +9,7 @@
 ## 🎯 What I Work On
 
 **LEO Satellite Routing with Deep RL / h-DQN**  
-[![GitHub Repo](https://img.shields.io/badge/LEO%20RL-55dim%20h--DQN-blue)](https://github.com/chennielee/2024KICS-Satelite-Downlink-Source-Code)  
+[![GitHub Repo](https://img.shields.io/badge/LEO%20Downlink%20RL-DQN%E2%86%92h--DQN-blue)](https://github.com/chennielee/2024KICS-Satelite-Downlink-Source-Code) 
 - **Problem:** Energy-aware ground station selection (10 stations) for LEO downlink with **AoI (Age of Information)** minimization under **queue capacity** + **distance-based communication energy** constraints.  
 - **Method:** Built a **DQN baseline** that trains stably (≈10k episodes) in a **TLE-driven OCO-2 orbit/visibility simulation** (step-level logging: reward/AoI/energy/queue).  
 - **Evaluation:** Compared against **visibility-aware Random** and **distance-greedy** baselines; reporting **return + AoI/energy/queue dispersion** (mean±std over N eval episodes).  
